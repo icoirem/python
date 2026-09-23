@@ -1,6 +1,9 @@
-print("Hello, World!")
+""" print("Hello, World!")
 
 print("This is a simple star pyramid")
 
 for i in range(1, 6):
-    print(i * "*");
+    print(i * "*"); """
+
+mydna = 'ATGGACRGGC'
+print('dna length:', len(mydna))
